@@ -1,0 +1,29 @@
+.block {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.header {
+  background-color: #333;
+  display:inline-block;
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+}
+
+/* Buttons made by Pure // https://purecss.io */
+
+.button-add {
+  color: white;
+  border-radius: 4px;
+  background: rgb(28, 184, 65); 
+  margin-right: 2.5px;
+}
+
+.button-delete {
+  color: white;
+  border-radius: 4px;
+  background: rgb(202, 60, 60); 
+  margin-left: 2.5px;
+}
